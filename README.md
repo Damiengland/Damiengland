@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Damiengland
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning HTML, CSS, JS & Python 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - damien.england@outlook.com
 
 <!---
