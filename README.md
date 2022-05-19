@@ -11,9 +11,9 @@ Visit my website [here!](http://www.damienengland.com.au)
 
 <br/>
 
-# 🔧 Software & Tools
+## 🔧 Software & Tools
 
-## 🎨 Design
+### 🎨 Design
 
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
@@ -22,7 +22,7 @@ Visit my website [here!](http://www.damienengland.com.au)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
 
-## { } Languages
+### { } Languages
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -31,7 +31,7 @@ Visit my website [here!](http://www.damienengland.com.au)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
-## 📚 Frameworks, Platforms and Libraries
+### 📚 Frameworks, Platforms and Libraries
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
@@ -42,7 +42,7 @@ Visit my website [here!](http://www.damienengland.com.au)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
-## 💾 Databases
+### 💾 Databases
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -50,7 +50,7 @@ Visit my website [here!](http://www.damienengland.com.au)
 
 <br/>
 
-# 📝 Featured Projects
+## 📝 Featured Projects
 
 - ## [Image Compressor](https://github.com/Damiengland/image_compressor)
 - ## [Food Freedom](https://github.com/Damiengland/food-freedom-flask)
@@ -59,7 +59,7 @@ Visit my website [here!](http://www.damienengland.com.au)
 
 <br/>
 
-# ✉️ CONTACT
+## ✉️ CONTACT
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]()
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damien-england-b67a3a141/)
